@@ -4,5 +4,5 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-### Preview: [https://slammyy.github.io/weather-web-app/](https://slammyy.github.io/weather-web-app)
+### Preview: [https://maximsavintsev.github.io/weather-web-app/](https://slammyy.github.io/weather-web-app)
 ### TODO: Make it work in safari
