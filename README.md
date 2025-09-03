@@ -5,4 +5,3 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ### Preview: [https://maximsavintsev.github.io/weather-web-app/](https://maximsavintsev.github.io/weather-web-app/)
-### TODO: Make it work in safari
